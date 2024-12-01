@@ -43,7 +43,5 @@ The dataset contains the following columns:
 
 ## Key Findings
 - **Sales Trends**: Monthly sales trends highlight seasonal spikes and dips.
-- **Customer Ratings**: The average rating is X. Products in category Y have the highest ratings.
-- **Delivery Insights**: Average delivery time is Z days; delayed orders constitute W%.
+- **Delivery Insights**: Average delivery time is 1 days.
 - **Discount Effects**: Higher discounts result in increased sales volume but reduced profit margins.
-- **Warehouse Efficiency**: Warehouse A has the fastest processing time.

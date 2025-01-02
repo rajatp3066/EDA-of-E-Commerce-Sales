@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-# Exploratory Data Analysis (EDA) of E-Commerce Sales
+## Exploratory Data Analysis (EDA) of E-Commerce Sales
 
 ## Overview
 This project performs **Exploratory Data Analysis (EDA)** on an e-commerce sales dataset to uncover insights about product sales, customer behavior, and order performance. The analysis uses Python along with popular data manipulation and visualization libraries such as **Pandas**, **Matplotlib**, and **Seaborn**.

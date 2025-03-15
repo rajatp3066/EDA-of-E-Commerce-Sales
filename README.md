@@ -1,7 +1,7 @@
 # 📊 Exploratory Data Analysis (EDA) of E-Commerce Sales  
 
 ## 🚀 Overview  
-This project performs **Exploratory Data Analysis (EDA)** on an **e-commerce sales dataset** to uncover insights into product sales, customer behavior, and order performance. Using Python and visualization libraries, we analyze trends, customer purchasing patterns, and key business metrics to provide **data-driven insights for growth and optimization**.
+This project performs **Exploratory Data Analysis (EDA)** on an **e-commerce sales dataset** to uncover insights into product sales, customer behaviour, and order performance. Using Python and visualization libraries, we analyze trends, customer purchasing patterns, and key business metrics to provide **data-driven insights for growth and optimization**.
 
 ---
 
